@@ -28,7 +28,7 @@ The following libraries are required:
 On Debian you can install them with:
 
 ```bash
-sudo apt-get install build-essential cmake libqt4-dev libgcrypt11-dev zlib1g-dev
+sudo apt-get install build-essential cmake libqt4-dev libgcrypt11-dev zlib1g-dev libmicrohttpd-dev libqjson-dev
 ```
 
 #### Build Steps
